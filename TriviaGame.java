@@ -10,6 +10,7 @@ public class TriviaGame
         Scanner scan = new Scanner(System.in);
         int pointsp1 = 0;
         int pointsp2 = 0;
+// hello this is a new comment
 
         Question[] qarray = new Question[10];
         qarray[0] = new Question("What is the biggest island in the world?", "1) Hawaii", "2) Iceland", "3) Greenland", "4) Vancouver Island", 3);
